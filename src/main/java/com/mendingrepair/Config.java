@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.mendingrepair;
 
 import java.util.List;
 import java.util.Set;
